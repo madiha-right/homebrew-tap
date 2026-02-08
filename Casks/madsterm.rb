@@ -1,6 +1,6 @@
 cask "madsterm" do
-  version "0.1.0"
-  sha256 "56b9d8d955c2b0778a87a7aaec4d9073cb72fba406170eef6cf10dc33eb309e9"
+  version "0.2.0"
+  sha256 "7d1a7c3134581f98377b8e26d1d7a4f9050a3f088fa966d13b47a9711ebbba43"
 
   url "https://github.com/madiha-right/madsterm/releases/download/v#{version}/Madsterm_#{version}_aarch64.dmg"
   name "Madsterm"
